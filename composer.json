@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DivinerSheep\\Push\\": "src/"
+            "testcomposers\\src\\": "src/"
         }
     }
 }
